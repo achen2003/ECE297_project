@@ -1,0 +1,50 @@
+|Searching| 
+
+The search bar has two functions:
+
+1. Highlighting a street
+
+How to: Input into the search bar the name of the required street. An autocorrect drop down is updated after each input. If the first option is
+incorrect, simply choose the correct option from the drop down to update the result!
+
+2. Highlighting intersections of two streets
+
+How to: Input the name of the streets as "Street a and Street b". This will highlight any matching intersections. If there is no match, 
+a popup will appear informing you of a null result!
+
+|Searching for path|
+
+Both input streets "a and b" or clicking on the map will popup a dialog including the basic information of this intersection. You will be able
+to specify the intersection to be your starting point or destination. After this, you will be able to see this information on the left.
+Once you specify both starting and destination point, you can click search path to get the directions to travel. A detailed instruction will 
+also appear at the bottom of side bar.
+Note: Blue icon refers to starting point, red icon refers to ending point.
+
+|Clearing search|
+
+Once you finish your Searching (either searching for intersections, streets, or paths), you can click on the Reset button to erase them on the map.
+The map will wait for your next instruction to draw anything. 
+
+
+|Changing the Map|
+
+Changing the map is a bit more involved, but not too difficult. 
+
+How to: By following the search-bar default format (i.e city_country with all spaces replaced with -), 
+then pressing "Change Map", you will be able to change maps to the desired city. Note that this may take around 30 seconds depending on the city, so patience is key!
+
+
+|Zooming and Panning|
+
+Zooming in, out and fitting to screen are all done using the on-screen buttons above the map.
+Panning is done using the arrow keys. 
+
+|Showing/hiding POI's|
+
+How to: Simply press the buttons labeled POI's. These should toggle the objects on screen. The amount of Poi's is determined
+by the zoom factor of the rendered map (i.e more as you zoom in further). 
+
+|Showing/hiding subway stations|
+
+The subway button toggles the subway stations on the map. Note: you should zoom in to a certain level to be able to see the subway stations, ensuring your map
+not to be messy at lower zooming level.
